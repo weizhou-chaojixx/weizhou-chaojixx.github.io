@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Dr. Wei Zhou"
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   bio              : "Associate Professor of the School of Cyber Science and Engineering, Huazhong University of Science and Technology."
   location         : "WUHAN, HUBEI, CHINA."
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/weizhou-chaojixx"sss
+  github           : "https://github.com/weizhou-chaojixx"
   google_plus      :
   keybase          :
   instagram        :
