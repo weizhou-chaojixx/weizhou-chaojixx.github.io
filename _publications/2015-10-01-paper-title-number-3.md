@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Automatic Firmware Emulation through Invalidity guided Knowledge Inference."
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+date: 2021
+venue: 'Usenix'
+paperurl: 'https://www.usenix.org/conference/usenixsecurity21/presentation/zhou'
+citation: 'Wei Zhou, Le Guan, Peng Liu, Yuqing Zhang. (2021). &quot;Automatic Firmware Emulation through Invalidity guided Knowledge Inference.&quot; <i>Usenix 2021</i>.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](http://weizhou-chaojixx.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: Wei Zhou, Le Guan, Peng Liu, Yuqing Zhang. (2021). "Automatic Firmware Emulation through Invalidity guided Knowledge Inference." <i>Usenix 2021</i>.
