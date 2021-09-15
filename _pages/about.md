@@ -14,8 +14,7 @@ Myresearch interests cover a wide range of systems security, including trusted c
 
 
 
-
-
+## Please refer to my new website: https://weizhou.netlify.app/
 
 
 OPENING:
@@ -23,4 +22,4 @@ OPENING:
 
 I am looking for self-motivated master or PhD students to work on cybersecurity problems, especially IoT security. Please send me your CV if interested. Candidates are expected to have a solid background in system programming and operating systems. If you are an HUST (undergraduate/master) student and has interested in IoT security, my lab also welcome.
 
-Email:zhouw at nipc dot org dot cn
+Email:weizhou_sec at hust dot edu dot cn
